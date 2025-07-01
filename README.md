@@ -2,7 +2,7 @@
 
 **Author:** Balaji Sankam  
 **Program:** B.Tech Robotics and Automation  
-
+THE MAIN THEORY: [URCC Theory PDF](https://github.com/BalajiSankam/URCC-Cosmology/blob/main/URCC_Theory%2Cpdf.pdf)
 ---
 
 ## 📄 Abstract
