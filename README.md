@@ -2,7 +2,6 @@
 
 **Author:** Balaji Sankam  
 **Program:** B.Tech Robotics and Automation  
-**Institution:** SRM Institute of Science and Technology, Kattankulathur Campus (SRM KTR)
 
 ---
 
